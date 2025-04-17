@@ -4,5 +4,18 @@
 		"name": "Hello GLC",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
-	"item": []
+	"item": [
+		{
+			"name": "1hjj",
+			"id": "1122189-d67e000e-bb1b-4343-b087-9bf1eb5e1a01",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
 }
