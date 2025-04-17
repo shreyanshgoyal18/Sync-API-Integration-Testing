@@ -184,25 +184,31 @@
 		},
 		{
 			"name": "H",
-			"id": "1122189-429f1849-d16e-4a33-8ff4-ed643be476f8",
+			"id": "1122189-cf4def3f-f37d-4d65-8246-63d2079da338",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
 			"request": {
 				"method": "GET",
-				"header": []
+				"header": [],
+				"url": {
+					"raw": ""
+				}
 			},
 			"response": []
 		},
 		{
 			"name": "Hello",
-			"id": "1122189-e4db3c87-ddeb-41e8-80f4-78a35e0d6d86",
+			"id": "1122189-ce3aa80f-d034-4c37-8b4d-2e850f2e9f95",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
 			"request": {
 				"method": "GET",
-				"header": []
+				"header": [],
+				"url": {
+					"raw": ""
+				}
 			},
 			"response": []
 		}
@@ -229,12 +235,10 @@
 	],
 	"variable": [
 		{
-			"id": "530bbdd9-38d3-441e-92dc-61f171c18dc2",
 			"key": "id",
 			"value": "1"
 		},
 		{
-			"id": "57b5ecc1-1ffd-4eb5-a9a4-fa78c5251c5d",
 			"key": "base_url",
 			"value": "https://postman-rest-api-learner.glitch.me/"
 		}
