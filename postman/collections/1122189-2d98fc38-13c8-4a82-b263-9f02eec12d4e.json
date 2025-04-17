@@ -1,0 +1,21 @@
+{
+	"info": {
+		"_postman_id": "1122189-2d98fc38-13c8-4a82-b263-9f02eec12d4e",
+		"name": "Hello collection 2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Req1",
+			"id": "1122189-b235eda8-f2a6-4c4e-92ae-5a614f7c39c8",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
