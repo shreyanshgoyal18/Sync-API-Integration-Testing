@@ -13,19 +13,25 @@
 			},
 			"request": {
 				"method": "GET",
-				"header": []
+				"header": [],
+				"url": {
+					"raw": ""
+				}
 			},
 			"response": []
 		},
 		{
 			"name": "REQ2",
-			"id": "1122189-16112067-7f42-4dea-ae53-902ce28054c7",
+			"id": "1122189-4a8e913c-8f6e-4ecd-868c-ad57b87d8a9f",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
 			"request": {
 				"method": "GET",
-				"header": []
+				"header": [],
+				"url": {
+					"raw": ""
+				}
 			},
 			"response": []
 		}
