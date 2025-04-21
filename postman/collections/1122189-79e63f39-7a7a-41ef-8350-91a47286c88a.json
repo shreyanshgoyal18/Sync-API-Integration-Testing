@@ -1,0 +1,21 @@
+{
+	"info": {
+		"_postman_id": "1122189-79e63f39-7a7a-41ef-8350-91a47286c88a",
+		"name": "Dhinesh",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"id": "1122189-7b2ed61f-b671-4c93-add9-91b0a1441d02",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
