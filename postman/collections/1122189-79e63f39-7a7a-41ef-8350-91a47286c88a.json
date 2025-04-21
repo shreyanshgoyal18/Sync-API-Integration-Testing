@@ -79,6 +79,18 @@
 				}
 			},
 			"response": []
+		},
+		{
+			"name": "hjj",
+			"id": "1122189-e3bff6b5-00cd-4f8d-a055-b583932b7752",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
 		}
 	]
 }
