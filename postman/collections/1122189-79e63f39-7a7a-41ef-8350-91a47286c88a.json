@@ -1,0 +1,144 @@
+{
+	"info": {
+		"_postman_id": "1122189-a3a96c10-b17e-44dc-9893-4a064d8e9091",
+		"name": "Dhinesh",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"id": "1122189-94b8f2cd-59b3-467a-a58e-39e147e00312",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "1122189-9ea7531f-1bdf-4bac-9864-8ab8e9d6da87",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "1122189-362531e1-0fa3-4e21-9d95-ee33464260af",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "1122189-e229c58e-0d08-4a5a-8a2f-f3ac4b593738",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "1122189-3768ded3-3fd8-4968-a669-a8b627cb45b7",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "hjj",
+			"id": "1122189-34c3d949-f452-405f-8e9f-046b22c7ccaa",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "1122189-1f3ac8cc-8efb-4043-aec8-1672b13d2236",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "1122189-cefe3a06-f274-41e3-8475-5d4aed233b6e",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "1122189-782cbcf1-4412-4a87-9389-8e6b22536ed2",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}
