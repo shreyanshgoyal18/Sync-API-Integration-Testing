@@ -7,13 +7,16 @@
 	"item": [
 		{
 			"name": "Hello",
-			"id": "1122188-862b5e3c-8346-4c3a-9f2a-e9fc7de09cda",
+			"id": "1122188-354c9e5a-944b-4bb5-ac9d-6319f2048a2e",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
 			"request": {
 				"method": "GET",
-				"header": []
+				"header": [],
+				"url": {
+					"raw": ""
+				}
 			},
 			"response": []
 		}
