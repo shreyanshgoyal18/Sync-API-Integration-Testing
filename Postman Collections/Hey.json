@@ -222,6 +222,18 @@
 				"url": "kllmklkklk,,kk"
 			},
 			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "a8d3091b-6a9b-4e19-b0d5-82ae4d22294f",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
 		}
 	]
 }
