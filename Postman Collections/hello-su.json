@@ -1,0 +1,123 @@
+{
+	"info": {
+		"_postman_id": "f14add94-16b3-4c17-b17f-715bd2244ba7",
+		"name": "Mock-today -3",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "localhost:1337/v2/reports/stored/mockUsageOvertime?version=v0",
+			"id": "511ace0c-82e1-40df-839b-62c0d34296cd",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "x-access-token",
+						"value": "b5b4769a3400f9caa600cbc1415a18301b5f54046d6118b4def41e26831ddc13ff81dcd2253326cbb501540ce793c7fa03ab084c7901f61917ec9a035f645668"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Authorization",
+						"value": "Basic Og=="
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"reportOptions\": {\n        \"mockId\": \"6b0d0afa-9ab5-44ed-bd1a-829d4e83f720\"\n    }\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:1337/v2/reports/stored/mockUsageOvertime?version=v0",
+					"host": [
+						"localhost"
+					],
+					"port": "1337",
+					"path": [
+						"v2",
+						"reports",
+						"stored",
+						"mockUsageOvertime"
+					],
+					"query": [
+						{
+							"key": "version",
+							"value": "v0"
+						}
+					]
+				}
+			},
+			"response": [
+				{
+					"id": "4aa22e13-1bb0-450f-84e8-8586bc33e81c",
+					"name": "Default",
+					"originalRequest": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "x-access-token",
+								"value": "b5b4769a3400f9caa600cbc1415a18301b5f54046d6118b4def41e26831ddc13ff81dcd2253326cbb501540ce793c7fa03ab084c7901f61917ec9a035f645668"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							},
+							{
+								"key": "Authorization",
+								"value": "Basic Og=="
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"reportOptions\": {\n        \"mockId\": \"6b0d0afa-9ab5-44ed-bd1a-829d4e83f720\"\n    }\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:1337/v2/reports/stored/mockUsageOvertime?version=v0",
+							"host": [
+								"localhost"
+							],
+							"port": "1337",
+							"path": [
+								"v2",
+								"reports",
+								"stored",
+								"mockUsageOvertime"
+							],
+							"query": [
+								{
+									"key": "version",
+									"value": "v0"
+								}
+							]
+						}
+					},
+					"_postman_previewlanguage": "",
+					"header": null,
+					"cookie": [],
+					"responseTime": null,
+					"body": null
+				}
+			]
+		}
+	],
+	"variable": [
+		{
+			"key": "url",
+			"value": "https://3c5681fb-8d82-434f-bdd0-1503486f4253.mock-beta.pstmn.io"
+		}
+	]
+}
