@@ -63,6 +63,18 @@
 					"body": "{\n    \"args\": {},\n    \"headers\": {\n        \"host\": \"postman-echo.com\",\n        \"x-request-start\": \"t1752660769.969\",\n        \"connection\": \"close\",\n        \"x-forwarded-proto\": \"https\",\n        \"x-forwarded-port\": \"443\",\n        \"x-amzn-trace-id\": \"Root=1-68777b21-6184cda84b2a6d6b6c0a7014\",\n        \"user-agent\": \"PostmanRuntime/7.44.1\",\n        \"accept\": \"*/*\",\n        \"cache-control\": \"no-cache\",\n        \"postman-token\": \"d940a1b2-ac27-4886-b4ba-edf1e4bfbffa\",\n        \"accept-encoding\": \"gzip, deflate, br\"\n    },\n    \"url\": \"https://postman-echo.com/get\"\n}"
 				}
 			]
+		},
+		{
+			"name": "New Request",
+			"id": "56d18026-1772-49e0-ba3a-a9cf3224025f",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
 		}
 	]
 }
